@@ -1,0 +1,231 @@
+$date
+	Mon Feb 02 18:00:30 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_test $end
+$var wire 1 ! dispenseItem $end
+$var reg 1 " cancel $end
+$var reg 1 # clk $end
+$var reg 1 $ coinIn $end
+$var reg 1 % itemSelected $end
+$scope module uut $end
+$var wire 1 " cancel $end
+$var wire 1 # clk $end
+$var wire 1 $ coinIn $end
+$var wire 1 % itemSelected $end
+$var reg 1 ! dispenseItem $end
+$var reg 2 & state [1:0] $end
+$var reg 4 ' totalMoney [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx '
+b0 &
+0%
+0$
+0#
+0"
+x!
+$end
+#1
+b0 '
+0!
+1#
+#2
+0#
+#3
+1#
+#4
+0#
+#5
+1#
+#6
+0#
+#7
+b1 &
+1#
+1%
+#8
+0#
+#9
+1#
+#10
+0#
+1$
+#11
+b10 &
+1#
+#12
+0#
+#13
+b1 &
+b1 '
+1#
+#14
+0#
+#15
+b10 &
+1#
+#16
+0#
+#17
+b1 &
+b10 '
+1#
+#18
+0#
+#19
+b10 &
+1#
+#20
+0#
+#21
+b1 &
+b11 '
+1#
+#22
+0#
+#23
+b10 &
+1#
+#24
+0#
+#25
+b1 &
+b100 '
+1#
+#26
+0#
+#27
+b10 &
+1#
+#28
+0#
+#29
+b1 &
+b101 '
+1#
+#30
+0#
+#31
+b10 &
+1#
+#32
+0#
+#33
+b1 &
+b110 '
+1#
+#34
+0#
+#35
+b10 &
+1#
+#36
+0#
+#37
+b1 &
+b111 '
+1#
+#38
+0#
+#39
+b10 &
+1#
+#40
+0#
+#41
+b1 &
+b1000 '
+1#
+#42
+0#
+#43
+b10 &
+1#
+#44
+0#
+#45
+b1 &
+b1001 '
+1#
+#46
+0#
+#47
+b10 &
+1#
+#48
+0#
+#49
+b1 &
+b1010 '
+1#
+#50
+0#
+#51
+b10 &
+1#
+#52
+0#
+#53
+b1 &
+b1011 '
+1#
+#54
+0#
+#55
+b10 &
+1#
+#56
+0#
+#57
+b11 &
+b1100 '
+1#
+#58
+0#
+#59
+b0 &
+b0 '
+1!
+1#
+#60
+0#
+#61
+b1 &
+0!
+1#
+#62
+0#
+#63
+b10 &
+1#
+#64
+0#
+#65
+b1 &
+b1 '
+1#
+#66
+0#
+#67
+b10 &
+1#
+#68
+0#
+#69
+b1 &
+b10 '
+1#
+#70
+0#
